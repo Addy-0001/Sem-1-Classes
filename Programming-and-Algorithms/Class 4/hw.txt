@@ -1,0 +1,12 @@
+The split() method in Python is used to split a string into a list of substrings. 
+
+The splitlines() method in Python is used to split a string into a list of lines.
+It works by identifying the line boundaries in the string based on the presence of newline (\n), carriage return (\r), or a combination of both (\r\n) characters.
+
+The join() method in Python is used to concatenate a list of strings into a single string, using a specified separator character. 
+
+The partition() method in Python is used to split a string into three parts based on the first occurrence of a specified separator substring. 
+The method returns a tuple containing the three parts: the substring before the separator, the separator itself, and the substring after the separator.
+
+The rpartition() method in Python is similar to the partition() method.
+But it searches for the last occurrence of a specified separator substring instead of the first occurrence.

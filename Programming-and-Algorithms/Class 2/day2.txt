@@ -1,0 +1,8 @@
+Python is the most popular programming language. 
+
+topics for day 3: 
+    * IDE - Integrated Development Environment
+    * Why use IDE while you have notepad? 
+    * Keyword
+    * identifier - names, rules
+    * variables

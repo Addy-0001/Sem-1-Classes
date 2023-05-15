@@ -1,0 +1,49 @@
+Networking
+    Services
+    - In the beginning, networking was just set of serial lines which brings out connection
+      between two dumb terminals. 
+    - A network can be defined as the communication between two hosts using intermediate 
+      network devices and some form of connectivity. 
+    - It is a group of somputers linked to each other that enables the computer to communicate
+      with another computer and share their resources, data, and applications. 
+    - The main puropse of this communication is to share available information and 
+      resources. Data originates from okne sending End Device, flows through the network and
+      arrives at the teceiving end device. 
+
+ARPANET brought out the important networking concpets such as LAN, MAN, WAN and so on. 
+
+Advantages of Networking
+    - Resource Sharing
+    - INcreased Productivity 
+    - Enhanced Communication 
+    - Increases Accessibility
+    - Improved Data Security 
+      * Designed firewalls
+      * Antivirus Softwares
+    - Scalability
+    - Cost Savings
+
+Networking Components
+ * End Device
+ * Intermediary Devices
+
+ * Clients - Take Data
+ * Server - Gives Data
+
+Fundamentals 
+ * LAN - Small Area
+ * MAN - Bigger than lan - City and all
+ * WAN - Bigger than man - Countries
+ 
+One collision domain - HUB
+one broadcast domain - Switch
+IP - Kathmandu
+mac - Dillibazar, Softwarica College, Block A, Room NO. LR2
+
+A - Application
+P - 
+S - 
+T - Transport
+N - Networking
+D - Data Transfer
+P - Physical 

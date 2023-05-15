@@ -1,0 +1,6 @@
+Waterfall Model
+    The waterfall model is a linear sequential approach to software development, where each phase of the development cycle is completed before moving on to the next. 
+    This model is most effective for projects with well-defined requirements and limited scope.
+
+Advantages of Waterfall Model
+    

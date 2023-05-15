@@ -1,0 +1,83 @@
+Software Development Life Cycle
+- The process that describes different stages or phases involved during software development. 
+- Also called Process Model
+- Pictorial And Diagrammatic representation of the Software's Development Life Cycle
+
+AIM: 
+- Produce software that meeds or exceeds customer expectations, reaches completion within time and budget. 
+
+Purposes: 
+- Design, Develop and Test high Quality software as per the customer's requirements. 
+
+Stages: 
+    - Requirement Analysis
+        * What is needed, exactly? 
+        * Creation of Software Requirement Specification (SRS) document. 
+    
+    - Design
+        * Design is developed based on the requirements provided in the SRS document
+    
+    - Implementation And Coding
+        * Make Source Code
+        * Implementation of each component asked from the customer
+
+    - Testing
+        * Testing starts upon completion of Coding. 
+        * Look for bugs and defects and fix them. 
+        * Eg: System Testing, Unit Testing, Acceptance Testing and others
+
+    - Maintainance
+        * Bug Fixing After Deployment. 
+
+Advantages of Choosing SDLC
+    1. Increased Development speeds
+        Self Explanatory
+
+    2. Increased Product Quality
+        Self Explanatory. 
+
+    3. Improved Tracking and Control
+        Ability to closely monitoy project progress and make adjustments as needed to ensure that the project stays on track and meets objectives
+        Implementation of tools and techniques to track key performance indicators (Budget, resources, project timeline, and so on). 
+
+    4. Decreased Project Risk
+        This refers to the erduction in the likelihood and potential impact of negative events that could affect the success of the project. 
+        These negative events could include technical failures, delays in development, scope creep, budget overruns or other unexpected issues that could derail the
+        project. 
+
+    5. Decreased Project Management Overhead. 
+        Decreased project management overhead in software development refers to a reduction in the time, effort, and resources required to manage a project. 
+        This can be achieved by streamlining the processes involved in project management, reducing unnecessary meetings, automating repetitive tasks, and improving 
+        communication between team members.
+
+        In the context of software development, a decreased project management overhead means that the project is managed more efficiently, with less time and effort 
+        spent on administrative tasks, allowing the team to focus more on the actual development work. This can result in faster project completion times, reduced costs, 
+        and improved quality of the final product.
+
+        Overall, a decreased project management overhead can lead to a more efficient and effective software development life cycle, which is beneficial for both the 
+        development team and the end-users of the software.
+
+Various Models of Software Development Cycles
+    1. Waterfall model: 
+        The waterfall model is a linear sequential approach to software development, where each phase of the development cycle is completed before moving on to the next. 
+        This model is most effective for projects with well-defined requirements and limited scope.
+
+    2. Agile model: 
+        The Agile model is an iterative and incremental approach to software development, where the software is developed in small, incremental stages. 
+        The Agile model is most effective for projects with rapidly changing requirements or where the final product is unclear at the outset.
+
+    3. Spiral model: 
+        The Spiral model is a risk-driven model that combines elements of both the waterfall and agile models. 
+        This model involves multiple iterations of the software development life cycle, with each iteration building on the previous one.
+
+    4. V model: 
+        The V model is a software development model that emphasizes the importance of testing and validation throughout the development cycle. 
+        The V model involves testing and validation activities that run parallel to each stage of the development cycle.
+
+    5. Prototype model: 
+        The prototype model is a software development model that involves building a basic prototype of the final product early in the development cycle. 
+        The prototype is then refined and improved based on user feedback and testing.
+
+    6. Incremental model: 
+        The Incremental model is an iterative model where the software is developed in smaller modules, with each module being developed and delivered incrementally.
+

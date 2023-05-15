@@ -1,0 +1,7 @@
+python3 -m py_compile <filename>
+This is the built in python compiler. 
+The terminal command is to produce a .pyc file. 
+
+pycdc <filename with pyc extension> > <outfilename>
+This is something called pycdc. Here, we have used something called pycdc
+It is based off of Decompyle++ 

@@ -1,0 +1,29 @@
+In a statically typed language, the type of variable is declared at compile time rather than runtime. 
+C, CPP, C# and Java are some examples of STL. 
+
+When you write code in a statically typed language, you have to tell the computer what type of data 
+your variables will hold, such as numbers, strings, or booleans. The compiler checks your code for 
+any errors related to data types, such as trying to add a string to a number, before the program is 
+executed. This helps catch errors early in the development process and can improve the reliability 
+of your software.
+
+In a dynamically typed language, the type of variable is declared at runtime. 
+Python is an example of DPL. 
+
+When you write code in a dynamically typed language, you don't have to tell the computer what type of data 
+your variables will hold. The type is automatically assigned at runtime.This makes programming easier
+as it removes the hassle early in the development process.
+
+
+
+
+In a strongly typed language, there is type checking at compile time. A strongly typed language requires you
+to declare the data type of a variable and ensures that you use the correct data types in all operations.
+
+The advantage of using a strongly typed language is that it helps prevent errors that can occur due to data type mismatches. 
+Examples are Java, C, CPP, C#, Python. 
+
+A weakly typed language is a programming language that allows implicit type conversions between different data types 
+and does not enforce strict type checking at compile-time.
+In a weakly typed language, the type of a variable can be determined at runtime. 
+Eg: JS, Pearl

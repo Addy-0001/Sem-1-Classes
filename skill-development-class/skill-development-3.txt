@@ -1,0 +1,5 @@
+TCP Handshake
+1 - Sync 
+2 - Sync/Ack 
+3 - Ack
+

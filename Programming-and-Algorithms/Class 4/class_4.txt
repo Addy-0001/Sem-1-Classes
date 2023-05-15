@@ -1,0 +1,3 @@
+Triple quotation strings are useful as docstrings right after defining the functions. 
+
+Escape Characters

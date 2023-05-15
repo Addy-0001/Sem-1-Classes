@@ -1,0 +1,50 @@
+Bar Graph is given.
+Question: The chart below shows the total number of minutes (In billions) of telephone calls in the UK, divided into three categories from 1995 to 2002. 
+Paraphrase: The bar graph shows the combined time spend in billions of minutes on three different kinds of phone calls in the United Kingdom, from 1995 to 2002.
+
+Aviod dates, numbers and figures in the overview. 
+
+Overview
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Overall, local calls were most popular over the whole period, with national and international calls and calls on mobiles second and third respectively. 
+
+Generally speaking, throughout the time of seven years, local fixed line stayed the most popular despite the fact that the trend is fluctuating. However, national and 
+international fixed line calls and mobile calls have gradually increased. 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Description
+Minutes spent on local calls fluctuated over the period with just over 70 billion minutes in 1995, peaking at approx. 90 billion in 1999 and then steadily decreasing 
+to just over 70 billion minutes in 2002. 
+
+National and international calls increased steadily year on year, from just under 40 billion in 1995 to over ... in the year 2002. ---
+Over the period, the gap between the three categories 
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Guidelines
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+a, an and the won't be counted. - articles won't be counted
+prepositions will be counted. 
+digits and percentages will not be counted. 
+Repeated words will be counted but vocab marks will be cut. 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Question: The chart gives information on the percentage of women going to higher educatino in five countries for the years 1980 and 2015. 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Paraphrase:
+The bar graph depicts data on the difference of percentage of females going to further education in five countries for the years 1980 and 2015. 
+
+The bar graph depicts the percentagewise difference of females pursuing higher education in UK, USA, Australia, South Korea and France in 1980 and 2015.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Overview: 
+Overall, we can see that in the countries except France and Australia, the difference in percentage of women going for further education between 1980 and 
+2015 is significant with the highest difference being in South Korea. 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Description:
+Explain 1980 in one paragraph and 2015 in another para. 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The chart below gives information about global population percentages and wealth by region. 
+The bar graph shows data about wealth valuation by region compared to the population in various regions of the world. 
+

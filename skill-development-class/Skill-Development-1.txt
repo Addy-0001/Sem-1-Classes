@@ -1,0 +1,36 @@
+chown user name - syntax
+This changes the owner of the file "name" to the user "user" 
+
+---    ---     ---
+User Group Others/world
+
+python3 "filename"
+executable permission
+
+chmod changes the modification permission of the file. 
+
+Sizzler 
+When you create a file, it is owned by you. 
+IT belongs to your current Group. 
+Usually, this is the Group you have signed into. 
+By default, this is a group that shares the same name as your username and was created when you were created as a user on the system. 
+
+Password/Passwd 
+the passwd command is used to change the password for a user account on unix-like systems include Linux and macOS
+* The  basic syntax of the passwd command is as follows: 
+    passwd [options] [username]
+* Some common options include -a (all), which changes the password for all use raccounts on the system and -d deletes the password for the specified user account. 
+
+Shadow
+/etc/shadow file stores secure user account information. All fields are separated by a colon. It contains one entry per line for each use listed in /etc/passwd file. 
+
+useradd 
+used to create new user accounts on the system. 
+basic syntax: 
+    useradd [options] username
+
+adduser
+syntax is 
+    adduser [options] username
+
+deluser and userdel 

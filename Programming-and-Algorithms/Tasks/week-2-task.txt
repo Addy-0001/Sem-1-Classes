@@ -1,0 +1,37 @@
+1.  Write a program to accept two integers and check whether they are equal or not. 
+
+2.  Write a program to check whether a given number is even or odd.
+
+3.  Write a program to check whether a given number is positive or negative.
+
+4.  Write a program to check whether an alphabet is a vowel or a consonant.
+
+5.  Print "1" if a is equal to b, print "2" if a is greater than b, otherwise print "3".
+
+6.  Print "Hello" if a is equal to b, and c is equal to d.
+
+7.  Print "Hello" if a is equal to b, or if c is equal to d.
+
+8.  Accept input from user
+    if given number is a multiple of both 3 and 5 prints "FizzBuzz" instead of number
+    if  given number is a multiple of 3 but not 5 prints "Fizz" instead of number
+    if given number is a multiple of 5 but not 3 prints "Buzz" instead of number
+    if given number is not multiple of 3 or 5 prints value as usual. 
+
+9.  Check whether the user input number is even or odd and display it to user.
+
+10. WAP which accepts marks of four subjects and display total marks, percentage and 
+    grade.
+Hint: more than 70 –> distinction, more than 60–> first, more than 40 –> pass, less than 40 –> fail
+
+11. What is the output of ‘APPLE’ > ‘apple’?
+
+12. Write a Python program to display your details like name, age, address in three different lines.
+
+13. Write a python program which accepts the radius of circle from user and compute the area.
+
+14. Given three integers, print the smallest one. (Three integers should be user input)
+
+15. Given three integers, print the largest one. (Three integers should be user input)
+
+16. Write a program that takes three numbers and prints their sum. Every number is given on a separate line.

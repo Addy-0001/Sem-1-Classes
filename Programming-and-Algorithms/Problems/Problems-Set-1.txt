@@ -1,0 +1,130 @@
+1. Write a program to accept two integers and check whether they are equal or not.
+
+2. Write a program to check whether a given number is even or odd.
+
+3. Write a program to check whether a given number is positive or negative.
+
+4. Write a program to check whether an alphabet is a vowel or a consonant.
+
+5. Print "1" if a is equal to b, print "2" if a is greater than b, otherwise print "3".
+
+6. Print "Hello" if a is equal to b, and c is equal to d.
+
+7. Print "Hello" if a is equal to b, or if c is equal to d.
+
+8.  Accept input from user if given number is a multiple of both 3 and 5 prints "FizzBuzz" instead of number
+    if  given number is a multiple of 3 but not 5 prints "Fizz" instead of number
+    if given number is a multiple of 5 but not 3 prints "Buzz" instead of number
+    if given number is not multiple of 3 or 5 prints value as usual. 
+
+9. Check whether the user input number is even or odd and display it to user.
+
+10. WAP which accepts marks of four subjects and display total marks, percentage and grade.
+    (Hint: more than 70 –> distinction, more than 60–> first, more than 40 –> pass, less than 40 –> fail)
+
+11. What is the output of ‘APPLE’ > ‘apple’?
+
+12. Write a Python program to display your details like name, age, address in three different lines.
+
+13. Write a python program which accepts the radius of circle from user and compute the area.
+
+14. Given three integers, print the smallest one. (Three integers should be user input)
+
+15. Given three integers, print the largest one. (Three integers should be user input)
+
+16. Write a program that takes three numbers and prints their sum. Every number is given on a separate line.
+
+17. N students take K apples and distribute them among each other evenly. The remaining (the undivisible) part remains in the basket. How many apples will each single student get? How many apples will remain in the basket? The program reads the numbers N and K. It should print the two answers for the questions above.
+
+18. Check whether 5 is in list of first 5 natural numbers or not. Hint: List => [1,2,3,4,5]
+
+19. Write a program to check whether a number entered is three-digit number or not.
+
+20. Write a program to display middle digit or second last digit number
+
+21. A school has following rules for grading system:
+    a. Below 25 - F
+    b. 25 to 45 - E
+    c. 45 to 50 - D
+    d. 50 to 60 - C
+    e. 60 to 80 - B
+    f. Above 80 - A
+    Ask user to enter marks and print the corresponding grade.
+
+22. Accept any city from the user and display monument of that city.
+                  City                                 Monument
+                  Delhi                               Red Fort
+                  Agra                                Taj Mahal
+                  Jaipur                              Jal Mahal
+
+23.  Write a program to whether a number (accepted from user) is divisible by 2 and 3 both.
+
+24.Write a program to accept two numbers and mathematical operators and perform operation accordingly.
+    Like:
+    Enter First Number: 7
+    Enter Second Number : 9
+    Enter operator : +
+    Your Answer is : 16
+
+25. Write a program to accept marks from the user and display the grade according to the following criteria:
+         Marks                                    Grade
+         > 90                                        A
+         > 80 and <= 90                              B
+         >= 60 and <= 80                             C
+         below 60                                    D
+
+26. Write a program to accept the cost price of a bike qnd display the road tax to be paid according to the following criteria:
+    Cost price(in Rs)                         Tax
+    >100000		                              15%
+    >50000 and <=100000                       10%
+    <=50000                                   5%
+
+27. Accept 3 number and display the smallest number
+
+28. Accept 3 number and display the largest number
+
+29. Accept 3 number and display the second largest number
+
+30. A company decided to give bonus to employee according to following criteria:
+    Time period of service              Bonus
+    More than 10 years	                10%
+    >=6 and <=10                        8%
+    Less than 6 years                   5%
+
+31. Accept three numbers from the user and display the second largest number.
+
+32. Accept the number of days from the user and calculate the charge for library according to following:
+    Till five days: Rs 2/day
+    Six to ten days: Rs 3/day
+    11 to 15 days: Rs 4/day
+    After 15 days: Rs 5/day
+
+33. A company decided to give bonus of 5% to employee if his/her year of service is more than 5years. Ask user for their salary and year of service and print the net bonus amount.
+
+34. Write a program to check two strings are anagram or not.
+
+35. A school has following rules for grading system:
+    Below 25 -F
+    25 to 45 - E
+    45 to 50 - D
+    50 to 60 - C
+    60 to 80 - B
+    Above 80 - A
+    Ask user to enter marks and print the corresponding grade.
+
+36. Write a program to display last digit of a number
+
+37. Write a program to display middle digit or second last digit number
+
+38. A school decided to replace the desks in three classrooms. Each desk sits two students. Given the number of students in each class, print the smallest possible number of desks that can be purchased. The program should read three integers: the number of students in each of the three 
+    classes, a, b and c respectively.
+    Hint. In the first test there are three groups. The first group has 20 students and thus needs 10 desks. The second group has 21 students, so they can get by with no fewer than 11 desks. 11 desks are also enough for the third group of 22 students. So, we need 32 desks in total.
+
+39. Write a python program which calculates tax of an employee with given condition:
+    Salary            	       Tax Rate
+    Below 20000                  15%
+    20000 to 50000               25%
+    50000 to 100000              30%
+    Above 100000                 35%
+
+40. For given integer x, print ‘True’ if it is positive, print ‘False’ if it is negative and print ‘zero’ if it is 0.

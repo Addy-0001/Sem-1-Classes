@@ -1,0 +1,13 @@
+Generally, python is called an interpreter. However, that is not the entire truth. Python is a compiler as well as interpreter. 
+
+Python programs are first compiled and then interpreted. The compilation part is done as we execute the program and then the program is interpreted. 
+
+After compilation, the source code is converted to Byte Code. Then, the byte code gets converted to the python virtual machine (pvm). Byte code is a machine independent code 
+which is understood by the virtual machine. A virtual machine is a special software that converts byte code to machine code.
+
+Generation of byte code and running the byte code in a virtual machine makes the interpretation process slower. Therefore, interpretation from say python is generally said 
+to be slower than compilation from say the C programming language. 
+
+
+Write some code as well.  While making the block diagram, Enclose the compiler and Virtual machine in a block.
+
