@@ -1,0 +1,4 @@
+lambda function 
+map function 
+reduce function
+filter function
