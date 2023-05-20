@@ -6,6 +6,7 @@ def softwarica():
         print("softwarica")
         i += 1
 
+
 def listSum():
     lst = [1, 2, 3, 4, 5]
     sum = 0
@@ -15,12 +16,14 @@ def listSum():
         i += 1
     print(sum)
 
+
 def printChar():
     str = "softwarica"
     i = 0
     while i < len(str):
         print(str[i])
         i += 1
+
 
 def intDisplay():
     lst = [1, "a", "c", 2, 3, 4]
@@ -29,6 +32,7 @@ def intDisplay():
         if type(lst[i]) == int:
             print(lst[i])
         i += 1
+
 
 def mul():
     lst = [4, 5, 3, 2]
@@ -39,12 +43,14 @@ def mul():
         print(mul)
         i += 1
 
+
 def mulTable():
     num = int(input("Enter a number: "))
     i = 1
     while i <= 10:
         print(num, "x", i, "=", num * i)
         i += 1
+
 
 def listRev():
     lst = [1, 2, 3, 4, 5]
@@ -55,6 +61,7 @@ def listRev():
         i -= 1
     print(list_rev)
 
+
 def listNew():
     lst = [1, 2, 3, 4]
     lst_new = []
@@ -63,6 +70,7 @@ def listNew():
         lst_new.append(lst[i]+1)
         i += 1
     print(lst_new)
+
 
 def prime():
     num = int(input("Enter a number: "))
@@ -74,6 +82,7 @@ def prime():
         i += 1
     else:
         print("Prime")
+
 
 def primeRange():
     num1 = int(input("Enter a number: "))
@@ -90,6 +99,7 @@ def primeRange():
             print("Prime")
         i += 1
 
+
 def stringcalc():
     str = input("Enter a string: ")
     i = 0
@@ -99,6 +109,7 @@ def stringcalc():
             sum = sum + int(str[i])
         i += 1
     print(sum)
+
 
 def validitycheck():
     str = input("Enter a string: ")
@@ -111,12 +122,14 @@ def validitycheck():
     else:
         print("Invalid")
 
+
 def oddevencheck():
     num = int(input("Enter a number: "))
     if num % 2 == 0:
         print("Even")
     else:
         print("Odd")
+
 
 def factorialfinder():
     num = int(input("Enter a number: "))
@@ -126,6 +139,7 @@ def factorialfinder():
         factorial = factorial * i
         i += 1
     print(factorial)
+
 
 def palindromecheck():
     str = input("Enter a string: ")
@@ -140,6 +154,7 @@ def palindromecheck():
     else:
         print("Palindrome")
 
+
 def armstrongcheck():
     num = int(input("Enter a number: "))
     sum = 0
@@ -153,6 +168,7 @@ def armstrongcheck():
     else:
         print("Not armstrong number")
 
+
 def perfectSquareCheck():
     num = int(input("Enter a number: "))
     i = 1
@@ -163,6 +179,7 @@ def perfectSquareCheck():
         i += 1
     else:
         print("Not perfect square")
+
 
 def perfectNumberCheck():
     num = int(input("Enter a number: "))
@@ -177,6 +194,7 @@ def perfectNumberCheck():
     else:
         print("Not perfect number")
 
+
 def multiplicationTablerange():
     num1 = int(input("Enter a number: "))
     num2 = int(input("Enter a number: "))
@@ -188,6 +206,7 @@ def multiplicationTablerange():
             j += 1
         i += 1
 
+
 def printSpecific():
     lst = [1, 2, 3, 4, 5]
     i = 0
@@ -196,6 +215,7 @@ def printSpecific():
             print(lst[i])
             break
         i += 1
+
 
 def sumodd():
     lst = [1, 2, 3, 4, 5]
@@ -206,7 +226,8 @@ def sumodd():
             sum = sum + lst[i]
         i += 1
     print(sum)
-    
+
+
 def sumeven():
     lst = [1, 2, 3, 4, 5]
     sum = 0
@@ -216,6 +237,7 @@ def sumeven():
             sum = sum + lst[i]
         i += 1
     print(sum)
+
 
 def countspace():
     str = input("Enter a string: ")
@@ -227,6 +249,7 @@ def countspace():
         i += 1
     print(count)
 
+
 def changelist():
     lst = [1, 2, 3, 4, 5]
     i = 0
@@ -235,6 +258,7 @@ def changelist():
             lst[i] = 6
         i += 1
     print(lst)
+
 
 def listmul():
     lst = [1, 2, 3, 4, 5]
@@ -245,6 +269,7 @@ def listmul():
         i += 1
     print(mul)
 
+
 def breakloop():
     lst = [1, 2, 3, 4, 5]
     i = 0
@@ -254,12 +279,14 @@ def breakloop():
         print(lst[i])
         i += 1
 
+
 def stringiteration():
     str = input("Enter a string: ")
     i = 0
     while i < len(str):
         print(str[i])
         i += 1
+
 
 def listiteration():
     lst = [1, 2, 3, 4, 5]
@@ -268,12 +295,14 @@ def listiteration():
         print(lst[i])
         i += 1
 
+
 def listiteration2():
     lst = [1, 2, 3, 4, 5]
     i = len(lst) - 1
     while i >= 0:
         print(lst[i])
         i -= 1
+
 
 def listappend():
     lst = [1, 2, 3, 4, 5]
@@ -284,6 +313,7 @@ def listappend():
         i += 1
     print(lst_new)
 
+
 def listappend2():
     lst = [1, 2, 3, 4, 5]
     lst_new = []
@@ -292,6 +322,7 @@ def listappend2():
         lst_new.append(lst[i])
         i -= 1
     print(lst_new)
+
 
 def loopContinue():
     lst = [1, 2, 3, 4, 5]
@@ -303,6 +334,7 @@ def loopContinue():
         print(lst[i])
         i += 1
 
+
 def appendType():
     lst = [1, 2, 3, 4, 5]
     lst_new = []
@@ -312,6 +344,7 @@ def appendType():
             lst_new.append(lst[i])
         i += 1
     print(lst_new)
+
 
 def loopElse():
     lst = [1, 2, 3, 4, 5]
@@ -324,6 +357,7 @@ def loopElse():
     else:
         print("Not found")
 
+
 def printSeries():
     lst = [1, 2, 3, 4, 5]
     i = 0
@@ -335,6 +369,7 @@ def printSeries():
     else:
         print("Not found")
 
+
 def badcharremove():
     str = input("Enter a string: ")
     i = 0
@@ -344,6 +379,7 @@ def badcharremove():
             continue
         print(str[i])
         i += 1
+
 
 def countevenodd():
     lst = [1, 2, 3, 4, 5]
@@ -367,12 +403,14 @@ def printListData():
         print(lst[i])
         i += 1
 
+
 def printListData2():
     lst = [1, 2, 3, 4, 5]
     i = 0
     while i < len(lst):
         print(lst[i])
         i += 1
+
 
 def printListData3():
     lst = [1, 2, 3, 4, 5]
