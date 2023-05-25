@@ -1,37 +1,31 @@
 from tkinter import *
-from tkinter import ttk
-
 root = Tk()
-root.title("login")
-root.geometry("300x300")
-root.resizable(False, False)
+root.geometry("400x400")
+root.resizable(0, 0)
 
 
-a = Label(root, text="Facebook")
+def onClick():
+    name = e1.get()
+    password = e2.get()
+
+    print(name, end="")
+    print(password)
+    Label(text=name + password).place(x=200, y=200)
+
+
+a = Label(root, text="Facebook", fg="blue")
 a.pack()
-
-
-def onClick(name, password):
-    print(name, password)
-    printname = Label(root, text=name).pack()
-    printpassword = Label(root, text=password).pack()
-
-
-uName = Label(root, text="UserName")
-uName.pack()
-uNameEntry = Entry(root)
-uNameEntry.pack()
-
-passWord = Label(root, text="Password")
-passWord.pack()
-passentry = Entry(root)
-passentry.pack()
-
-
-submitbutton = Button(root, text="Submit",
-                      command=lambda: onClick(uNameEntry.get, passentry.get)).pack()
-
-root.bind("<Return>", onClick)
-
-
+name = Label(root, text="Username", fg="purple")
+name.place(x=89, y=55)
+password = Label(root, text="Password", fg="purple")
+password.place(x=92, y=78)
+e1 = Entry(root)
+e1.place(x=155, y=55)
+e2 = Entry(root)
+e2.place(x=155, y=79)
+submit = Button(root, text="Login", bg="pink", command=onClick)
+root.bind(
+    '<Return>', onClick
+)
+submit.place(x=187, y=110)
 root.mainloop()
