@@ -1,6 +1,6 @@
 from tkinter import *
 root = Tk()
-root.geometry("400x400")
+root.geometry("800x800")
 root.resizable(0, 0)
 
 
@@ -23,7 +23,7 @@ e1 = Entry(root)
 e1.place(x=155, y=55)
 e2 = Entry(root)
 e2.place(x=155, y=79)
-submit = Button(root, text="Login", bg="pink", command=onClick)
+submit = Button(root, text="Login", bg="white", command=onClick)
 root.bind(
     '<Return>', onClick
 )
